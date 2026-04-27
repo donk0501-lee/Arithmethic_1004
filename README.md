@@ -1,5 +1,7 @@
 # Arithmethic_1004
 
+cursor class d1
+
 순수 콘솔 기반 Python 사칙연산 프로젝트입니다.
 
 ## 실행
